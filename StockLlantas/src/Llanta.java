@@ -11,10 +11,7 @@ public class Llanta {
 		dimensiones="";
 	}
 	
-	public void addLlanta(){
-		numeroLlantas++;
-	}
-	
+
 	public void addLlantas(int num){
 		numeroLlantas=numeroLlantas+num;
 	}
