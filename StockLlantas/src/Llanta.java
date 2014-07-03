@@ -9,7 +9,7 @@ public class Llanta {
 		marca="";
 		modelo="";
 		dimensiones="";
-		System.out.println("Hola");
+		System.out.println("Hola mundo");
 	}
 	
 	public void addLlanta(){
