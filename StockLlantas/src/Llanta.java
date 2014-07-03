@@ -1,9 +1,9 @@
 
 public class Llanta {
 	int numeroLlantas=0;
-	String marca="";
-	String modelo="";
-	String dimensiones="";
+	String marca;
+	String modelo;
+	String dimensiones;
 	public Llanta() {
 		numeroLlantas=0;
 		marca="";
